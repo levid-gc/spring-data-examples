@@ -2,7 +2,7 @@ spring:
   datasource:
     url: jdbc:mysql://localhost:3306/jpa-bookstore
     username: root
-    password: 1qazXSW@
+    password: P@ssw0rd
     platform: mysql
 
   jpa:
